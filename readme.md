@@ -28,19 +28,6 @@ O projeto é composto por quatro páginas principais:
      - Mensagem
    - Integração com o Google Maps para localização da clínica.
 
----
-
-## 📁 Estrutura de Arquivos
-
-├── index.html           # Página Principal
-├── rotas                # Pasta Para Rota das Outras Páginas
-    ├── sobre.html       # Sobre a Clínica
-    ├── horario.html     # Horário de Atendimento
-    ├── contato.html     # Página de Contato
-├── style.css         # Estilos CSS para o site
-├── img/             # Pasta para imagens utilizadas no site
-└── README.md        # Documentação do projeto
-
 ## 🎨 Estilo e Layout
 O layout do site foi desenvolvido com base em um arquivo CSS único (style.css), contendo:
 
